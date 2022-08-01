@@ -1,0 +1,47 @@
+h1{
+
+font-size: 90px;
+
+text-align: center;
+
+color: #11f8f4
+
+}
+
+
+p{
+
+font-size: 55px;
+
+text-align: left;
+
+font-family: Verdana, sans-serif;
+
+color: #f2ff29
+
+}
+
+h2{
+
+font-size: 35px;
+
+text-align: right;
+
+font-family: Verdana, sans-serif;
+
+color: #16ff1d
+}
+
+a{
+
+font-size: 60px;
+
+text-align: center;
+
+}
+
+body {
+
+background-color: #ff53ea;
+
+}
